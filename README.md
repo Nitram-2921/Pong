@@ -1,6 +1,6 @@
 # 🏓 PONG | Juego desarrollado en Java
 
-<p align="center">   \*\*Desarrollo de videojuegos · Programación · Java </p>
+<p align="center">   Desarrollo de videojuegos · Programación · Java </p>
 
 <p align="center">   Una recreación del clásico Pong, desarrollada en Java como proyecto de programación. </p>
 
