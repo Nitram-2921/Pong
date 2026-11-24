@@ -54,6 +54,13 @@ git clone https://github.com/Nitram-2921/Pong.git
 
 Aplicar conocimientos de Java mediante la creación de un videojuego funcional, trabajando con lógica de programación, movimiento de objetos e interacción.
 
+## 👥 Desarrollo
+
+**Autores:**
+- Martín Irrazabal
+- Lucas Yuricich
+- Ciro Villar
+
 ## 📁 Repositorio
 
 Podés consultar el código fuente y conocer el desarrollo del proyecto desde GitHub.
